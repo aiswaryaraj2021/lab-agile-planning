@@ -1,21 +1,23 @@
 ---
 name: User Story
-about: Click on Cart button
+about: This template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-As a user
-I need to click on cart icon
- So that i can view items added in the cart
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
-Details and Assumptions
-Already Items are added in the cart
+ ### Details and Assumptions
+ * [document what you know]
    
-Acceptance Criteria  
+ ### Acceptance Criteria  
    
- Given User have access to e-commerce app
- When I click on the Cart Button
- Then I can view the items added in the cart.
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
