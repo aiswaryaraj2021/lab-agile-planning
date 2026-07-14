@@ -1,9 +1,9 @@
 ---
 name: User Story
-about: This template is for creating user stories
-title: ''
-labels: ''
-assignees: ''
+about: Need a service that has a counter
+title: 'Counter Service'
+labels: 'Enhancement'
+assignees: 'Aiswarya'
 
 ---
 
